@@ -1,4 +1,4 @@
-# goscanner---high-performance-Go-port-scanner
+# goscanner high-performance-Go-port-scanner
 
 # Dentro de C:\goscanner
 go run . 127.0.0.1 -p 80,443,22
